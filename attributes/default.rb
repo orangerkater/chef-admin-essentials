@@ -3,7 +3,6 @@ default.admin_essentials.packages = %w(
   mc
   htop
   strace
-  screen
   inotify-tools
   debconf-utils
   rlwrap
@@ -29,7 +28,6 @@ default.admin_essentials.packages = %w(
   whois
   tcpdump
   nmap
-  git-annex
   pwgen
   mg
 )
